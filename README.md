@@ -1,4 +1,6 @@
-<img src="images/neteclogo.png" alt="logo" width="300"/>
+<a href="https://netec.com">
+  <img src="https://static.wixstatic.com/media/96edd2_934dddb3230b4b16b1d1c56c51143738~mv2.png" alt="Logo de Netec" width="300"/>
+</a>
 
 # Fundamentos de Ciberseguridad
 
@@ -9,8 +11,6 @@ Te damos la bienvenida a la **plataforma de laboratorios** del curso **Fundament
 ## Descripción del curso
 
 Taller práctico introductorio orientado a comprender los principales riesgos de ciberseguridad y las medidas básicas de protección. A través de actividades de ingeniería social, autenticación multifactor, análisis de archivos sospechosos y consulta de vulnerabilidades CVE, los participantes conocerán herramientas y técnicas para identificar amenazas y fortalecer la seguridad de la información.
-
-**Duración:** 2 horas (120 minutos), 100% práctica.
 
 ## Objetivos del curso
 
@@ -53,52 +53,6 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
   - **Descripción**: interpretación del vector CVSS de Heartbleed, cálculo en la calculadora oficial de FIRST y priorización de vulnerabilidades.
   - ⏱️ **Duración estimada**: 15 min.
-
-### Distribución del tiempo
-
-| Práctica | Herramienta | Duración |
-|---|---|---|
-| 1. Introducción a la Ingeniería Social | SecuLab (Google AI Studio) | 30 min |
-| 2. Introducción a la Autenticación de Dos Factores | Cisco Duo (demostraciones) | 10 min |
-| 3. Aplicación de uso de inteligencia (sandbox) | VirusTotal | 25 min |
-| 4. Introducción al análisis de vulnerabilidades CVE | National Vulnerability Database | 40 min |
-| 5. Introducción al análisis de severidad con CVSS | NVD y calculadora CVSS de FIRST | 15 min |
-| **Total** | | **120 min** |
-
-## Instrucciones generales del laboratorio
-
-1. Antes del taller, preparar el equipo y las cuentas con la [Guía de configuración](Setup_Guide.md).
-2. Cada práctica está en su carpeta `CapituloNN` con su `README.md` y, cuando aplica, una carpeta `recursos` con las plantillas y archivos de trabajo. Para descargar un archivo, abrirlo y seleccionar **Download raw file**.
-3. Guardar los entregables en `Documentos\Taller_Ciberseguridad\PracticaNN\` con las iniciales del participante en el nombre.
-4. Todas las actividades son defensivas y usan casos públicos o datos ficticios. No escribir contraseñas reales en ninguna herramienta, no subir archivos confidenciales a VirusTotal y no abrir enlaces sospechosos.
-5. Las prácticas 4 y 5 se realizan en equipos de 2 o 3 participantes; las demás son individuales con discusión grupal.
-
-## Estructura del repositorio
-
-```text
-.
-├── README.md            Página principal (este archivo)
-├── Setup_Guide.md       Guía de configuración del entorno
-├── images/              Logotipo y diagramas de las prácticas
-├── Capitulo01/          Práctica 1: README.md y recursos/
-├── Capitulo02/          Práctica 2
-├── Capitulo03/          Práctica 3
-├── Capitulo04/          Práctica 4
-└── Capitulo05/          Práctica 5
-```
-
-## Recursos adicionales
-
-- [CISA: Avoiding Social Engineering and Phishing Attacks](https://www.cisa.gov/news-events/news/avoiding-social-engineering-and-phishing-attacks)
-- [CISA: autenticación multifactor](https://www.cisa.gov/topics/cybersecurity-best-practices/multifactor-authentication)
-- [VirusTotal: cómo funciona](https://docs.virustotal.com/docs/how-it-works)
-
-## Enlaces de referencia
-
-- [National Vulnerability Database](https://nvd.nist.gov/)
-- [CVE Program](https://www.cve.org/)
-- [FIRST: especificación de CVSS 3.1](https://www.first.org/cvss/v3.1/specification-document)
-- [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 
 ---
 
