@@ -71,24 +71,27 @@ Al finalizar la práctica, el participante será capaz de:
 
 <img width="1355" height="604" alt="Cap 1 Tarea 2 Img 2" src="https://github.com/user-attachments/assets/a6dcc703-b8b9-4cdc-a3fe-de1a1222e079" />
 
+
 **Paso 1.** Ingresa al link https://seculab-taller-practico-de-seguridad.ai.studio/ e ingresa con una cuenta de Google, necesitaras que tu instructor acepte tu solicitud de ingreso.
 
+
 <img width="1142" height="652" alt="Cap 1 Tarea 2  Paso 1 Img 3" src="https://github.com/user-attachments/assets/2c2cab14-09fb-4594-b954-309a38867731" />
+
 
 **Paso 2.** Deveras  dar clic en el botón iniciar para comenzar a responder tus tres 3 escenarios del simulador 
 
 - **Qué verás:** Una pantalla con un caso de estudio y una caja de texto para ingresar tu respuesta.
 
 
-**Paso 5.** Leer el escenario y responder en la caja de texto con su decisión (*legítimo* o *ataque*) y al menos 3 señales de alerta. Ejemplo de formato: `Ataque. Señales: urgencia de 30 minutos, remitente externo, enlace para escribir la contraseña.`
+**Paso 3.** Leer el escenario y responder en la caja de texto con su decisión (*legítimo* o *ataque*) y al menos 3 señales de alerta. Ejemplo de formato: `Ataque. Señales: urgencia de 30 minutos, remitente externo, enlace para escribir la contraseña.`
 
 <img width="1175" height="836" alt="Cap 1 Tarea 2  Paso 4 Img 4" src="https://github.com/user-attachments/assets/f8529ce9-923b-4baf-98e6-2ed5b314134f" />
 
 - **Qué verás:** la evaluación del simulador con las señales que acertó, las que omitió, el principio psicológico y el puntaje.
 
-**Paso 6.** Repetir el Paso 5 con el **ESCENARIO 2** (SMS de paquetería) y el **ESCENARIO 3** (llamada de la mesa de ayuda).
+**Paso 4.** Repetir el Paso 5 con el **ESCENARIO 2** (SMS de paquetería) y el **ESCENARIO 3** (llamada de la mesa de ayuda).
 
-**Paso 7.** Registrar en la sección **2. Resultados de la simulación SecuLab** de la plantilla la decisión, las señales, el principio psicológico y el puntaje de cada escenario.
+**Paso 5.** Registrar en la sección **2. Resultados de la simulación SecuLab** de la plantilla la decisión, las señales, el principio psicológico y el puntaje de cada escenario.
 
 **Al terminar esta tarea debes tener:**
 
