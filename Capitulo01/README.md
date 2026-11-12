@@ -63,13 +63,19 @@ Al finalizar la práctica, el participante será capaz de:
 
 ## Tarea 2. Simulación con SecuLab (10 min)
 
+<img width="665" height="394" alt="Cap 1 Tarea 2 Img 1" src="https://github.com/user-attachments/assets/ab5f45eb-00a9-4e17-84c2-fb0a5f42022a" />
+
 **Objetivo:** Completar los 3 escenarios del simulador y registrar decisión, señales de alerta, principio psicológico y puntaje.
 
 **Por qué:** Reconocer las señales en mensajes realistas es la habilidad que evita la mayoría de los ataques de ingeniería social.
 
-**Paso 1.** Si el instructor compartió el enlace de la app SecuLab, abrirlo, iniciar sesión con su cuenta de Google y pasar al Paso 4.
+<img width="1355" height="604" alt="Cap 1 Tarea 2 Img 2" src="https://github.com/user-attachments/assets/a6dcc703-b8b9-4cdc-a3fe-de1a1222e079" />
 
-**Paso 2.** Si no hay enlace, abrir [aistudio.google.com](https://aistudio.google.com/), iniciar sesión con su cuenta de Google y seleccionar **Chat** (o **Create new prompt**) para abrir un chat nuevo.
+**Paso 1.** Ingresa al link https://seculab-taller-practico-de-seguridad.ai.studio/ e ingresa con una cuenta de Google, necesitaras que tu instructor acepte tu solicitud de ingreso.
+
+<img width="1142" height="652" alt="Cap 1 Tarea 2  Paso 1 Img 3" src="https://github.com/user-attachments/assets/2c2cab14-09fb-4594-b954-309a38867731" />
+
+**Paso 2.** Deveras  dar clic en el botón iniciar para comenzar a responder tus tres 3 escenarios del simulador 
 
 - **Qué verás:** un área de conversación y, a la derecha, el panel de configuración con el modelo seleccionado.
 - **Si no ocurre así:** aceptar los términos de uso de Google AI Studio si aparecen; si la cuenta no tiene acceso, trabajar en pareja con un compañero.
@@ -80,9 +86,12 @@ Al finalizar la práctica, el participante será capaz de:
 
 **Paso 4.** Escribir `INICIAR` en el cuadro de mensaje y enviarlo.
 
-- **Qué verás:** un saludo y el **ESCENARIO 1**, un correo que dice venir del área de TI.
+- **Qué verás:** Una pantalla con un caso de estudio y una caja de texto para ingresar tu respuesta.
 
-**Paso 5.** Leer el escenario y responder en el chat con su decisión (*legítimo* o *ataque*) y al menos 3 señales de alerta. Ejemplo de formato: `Ataque. Señales: urgencia de 30 minutos, remitente externo, enlace para escribir la contraseña.`
+
+**Paso 5.** Leer el escenario y responder en la caja de texto con su decisión (*legítimo* o *ataque*) y al menos 3 señales de alerta. Ejemplo de formato: `Ataque. Señales: urgencia de 30 minutos, remitente externo, enlace para escribir la contraseña.`
+
+<img width="1175" height="836" alt="Cap 1 Tarea 2  Paso 4 Img 4" src="https://github.com/user-attachments/assets/f8529ce9-923b-4baf-98e6-2ed5b314134f" />
 
 - **Qué verás:** la evaluación del simulador con las señales que acertó, las que omitió, el principio psicológico y el puntaje.
 
