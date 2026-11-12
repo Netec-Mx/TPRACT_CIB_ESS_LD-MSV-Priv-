@@ -77,15 +77,6 @@ Al finalizar la práctica, el participante será capaz de:
 
 **Paso 2.** Deveras  dar clic en el botón iniciar para comenzar a responder tus tres 3 escenarios del simulador 
 
-- **Qué verás:** un área de conversación y, a la derecha, el panel de configuración con el modelo seleccionado.
-- **Si no ocurre así:** aceptar los términos de uso de Google AI Studio si aparecen; si la cuenta no tiene acceso, trabajar en pareja con un compañero.
-
-**Paso 3.** Abrir el campo **System instructions**, pegar el contenido completo de `SecuLab_Instrucciones_Sistema.txt` y cerrar el campo.
-
-- **Importante:** no modificar las reglas; definen que los escenarios son ficticios y que el simulador no genera ataques reales.
-
-**Paso 4.** Escribir `INICIAR` en el cuadro de mensaje y enviarlo.
-
 - **Qué verás:** Una pantalla con un caso de estudio y una caja de texto para ingresar tu respuesta.
 
 
